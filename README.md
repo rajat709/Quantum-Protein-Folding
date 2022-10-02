@@ -1,5 +1,5 @@
 # Quantum-Protein-Folding
-Abstract
+### Abstract /n
 Protein folding has been one of the most difficult problems for over a half-century,The
 random thermal motions causing conformational changes that lead energetically
 downhill towards the native structure, a principle captured in funnel-shaped energy

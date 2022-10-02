@@ -21,4 +21,8 @@ problem into a qubit operator.
 ![casp14_predictions](https://user-images.githubusercontent.com/79074817/193454419-84a2358e-a6e2-4e39-b39d-cc06c64eb2c1.gif)
 
 ##### Challenge Discription:
-``` The Hackathon is assciated with Quantum Science and Technology Hackathon from QETCI(Quantum Ecosystem Technology Council of India) ```
+``` The Hackathon is assciated with Quantum Science and Technology Hackathon from QETCI(Quantum Ecosystem Technology Council of India) 
+Our main focus is on Life Science application:
+
+-->This is an umbrella category that includes Pharmaceutical, Healthcare, Biosciences, Bio Tech and affiliated areasQuantum computing in healthcare can also enhancediagnostic imaging quality, analysis, and process, advance precision medicine; improve cost of services, and improve risk analysis. Quantum Computing can speed up Drug discovery, enable better clinical trials, enhance many other processes for pharma Quantum Sensors and Optimization can help create better diagnostic equipment. Anything mentioned here or any new solution for the Life Sciences sector using Quantum will be relevant in this category
+```

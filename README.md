@@ -41,4 +41,12 @@ Winners in each Category – Top 3 get access to demo day with investors and inc
  Second Prize ---> $10k
  Third Prize  ---> $5k
 ```
-##    
+###### we did a lot of work and continuous effort and our team won second place in the challenge.
+
+### Team Name: Qrius
+
+### Team Member's:
+
+1). Rajat Kumar Vishwakarma                                    email: rajat@myself.com                      discord i'd: Rajat Vishwakarma#8403
+
+2). Anastasia                                                email: anastasia@ibm.com                       discord i'd: Anastsia_001#5698

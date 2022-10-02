@@ -16,3 +16,4 @@ for finding the minimum configuration energy and our task is to identify a prote
 minimal energy structure. The protein's structure is optimized to reduce energy. Also
 making sure that all physical constraints are met and encoding the protein folding
 problem into a qubit operator.
+![casp14_predictions](https://user-images.githubusercontent.com/79074817/193454419-84a2358e-a6e2-4e39-b39d-cc06c64eb2c1.gif)

@@ -41,7 +41,7 @@ Winners in each Category – Top 3 get access to demo day with investors and inc
  Second Prize ---> $10k
  Third Prize  ---> $5k
 ```
-###### we did a lot of work and continuous effort and our team won second place in the challenge.
+##### we did a lot of work and continuous effort and our team won second place in the QETCI challenge.
 
 ### Team Name: Qrius
 

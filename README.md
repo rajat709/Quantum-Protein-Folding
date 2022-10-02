@@ -20,3 +20,5 @@ problem into a qubit operator.
 #### example how protein fold(Source Alpha-fold)
 ![casp14_predictions](https://user-images.githubusercontent.com/79074817/193454419-84a2358e-a6e2-4e39-b39d-cc06c64eb2c1.gif)
 
+##### Challenge Discription:
+``` The Hackathon is assciated with Quantum Science and Technology Hackathon from QETCI(Quantum Ecosystem Technology Council of India) ```

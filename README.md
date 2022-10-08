@@ -16,38 +16,3 @@ for finding the minimum configuration energy and our task is to identify a prote
 minimal energy structure. The protein's structure is optimized to reduce energy. Also
 making sure that all physical constraints are met and encoding the protein folding
 problem into a qubit operator.
-
-#### example how protein fold(Source Alpha-fold)
-![casp14_predictions](https://user-images.githubusercontent.com/79074817/193454419-84a2358e-a6e2-4e39-b39d-cc06c64eb2c1.gif)
-
-##### Challenge Discription:
-```
-The Hackathon is assciated with Quantum Science and Technology Hackathon from QETCI(Quantum Ecosystem Technology Council of India) 
-Our main focus is on Life Science application:
-
-This is an umbrella category that includes Pharmaceutical, Healthcare, Biosciences, Bio Tech and affiliated areasQuantum computing in healthcare can  also 
-enhancediagnostic imaging quality, analysis, and process, advance precision medicine; improve cost of services, and improve risk analysis. Quantum Computing
-can speedup Drug discovery, enable better clinical trials, enhance many other processes for pharma Quantum Sensors and Optimization can help create better
-diagnosticequipment.Anything mentioned here or any new solution for the Life Sciences sector using Quantum will be relevant in this category.
-
-#####prizes
-Winners in each Category – Top 3 get access to demo day with investors and incubators
-
-* All winners get Winner Certificates and Membership opportunities.
-* Opportunities with Incubators and Investment ( Qubit Ventures and T-Hub are incubation partners).
-* Credits for access to quantum hardware.
-
- First Prize  ---> $20k
- Second Prize ---> $10k
- Third Prize  ---> $5k
-```
-
-##### {we did a lot of work and continuous effort and our team won second place in the QETCI challenge.}
-
-### Team Name: Qrius
-
-### Team Member's:
-
-1). Rajat Kumar Vishwakarma               |                     email: rajat@myself.com           |           discord i'd: Rajat Vishwakarma#8403
-
-2). Anastasia                            |                    email: anastasia@ibm.com               |        discord i'd: Anastsia_001#5698
